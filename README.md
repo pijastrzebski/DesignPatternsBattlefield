@@ -1,6 +1,6 @@
 # DesignPatternsBattlefield
 
 Based on:
-  https://refactoring.guru/design-patterns/
-  https://www.udemy.com/patterns-cplusplus/
-  https://www.udemy.com/design-patterns-c/
+  1. https://refactoring.guru/design-patterns/
+  2. https://www.udemy.com/patterns-cplusplus/
+  3. https://www.udemy.com/design-patterns-c/
