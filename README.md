@@ -1,4 +1,4 @@
-# DesignPatternsBattlefield
+# OOP Design Patterns in C++
 
 Based on:
   1. https://refactoring.guru/design-patterns/
